@@ -10,3 +10,5 @@
   - simple function logic
 - rectangle
   - simple method logic
+- generic_method
+  - simple generic method logic
