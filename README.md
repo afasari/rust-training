@@ -12,3 +12,5 @@
   - simple method logic
 - generic_method
   - simple generic method logic
+- multiple
+  - simple multiple different type
