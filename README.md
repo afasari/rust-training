@@ -14,3 +14,5 @@
   - simple generic method logic
 - multiple
   - simple multiple different type
+- array_loop
+  - simple looping array
