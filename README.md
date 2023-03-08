@@ -16,3 +16,5 @@
   - simple multiple different type
 - array_loop
   - simple looping array
+- unimplemented
+  - simple unimplemented function and method
