@@ -18,3 +18,7 @@
   - simple looping array
 - unimplemented
   - simple unimplemented function and method
+- lifetimes
+  - lifetimes in function calls
+- lifetimes_ds
+  - lifetimes in data structure
