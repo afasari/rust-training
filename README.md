@@ -24,3 +24,5 @@
   - lifetimes in data structure
 - library
   - implement library
+- pretty_print
+  - implement pretty_print
