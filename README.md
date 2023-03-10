@@ -22,3 +22,5 @@
   - lifetimes in function calls
 - lifetimes_ds
   - lifetimes in data structure
+- library
+  - implement library
