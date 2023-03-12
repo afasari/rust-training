@@ -26,3 +26,5 @@
   - implement library
 - pretty_print
   - implement pretty_print
+- iterator
+  - simple iterator
