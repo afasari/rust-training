@@ -28,3 +28,5 @@
   - implement pretty_print
 - iterator
   - simple iterator
+- structs
+  - struct example
