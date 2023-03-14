@@ -34,3 +34,5 @@
   - tuple struct example (single-flied wrappers)
 - shorthand
   - field shorthand syntax
+- enums
+  - enums implementation
