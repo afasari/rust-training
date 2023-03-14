@@ -32,3 +32,5 @@
   - struct example
 - tuple_structs
   - tuple struct example (single-flied wrappers)
+- shorthand
+  - field shorthand syntax
