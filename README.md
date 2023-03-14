@@ -30,3 +30,5 @@
   - simple iterator
 - structs
   - struct example
+- tuple_structs
+  - tuple struct example (single-flied wrappers)
