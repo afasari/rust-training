@@ -11,11 +11,6 @@ impl Person {
     }
 }
 
-// fn main() {
-//     let peter = Person::new(String::from("Peter"), 27);
-//     println!("{peter:?}");
-// }
-
 impl Default for Person {
     fn default() -> Person {
         Person {
