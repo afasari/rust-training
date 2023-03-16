@@ -42,3 +42,5 @@
   - enum sizes implementation
 - methods
   - methods implementation
+- methods receiver
+  - methods receiver implementation
