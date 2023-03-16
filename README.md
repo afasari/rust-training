@@ -38,3 +38,5 @@
   - enums implementation
 - variant_payloads
   - variant_payloads implementation
+- enum sizes
+  - enum sizes implementation
