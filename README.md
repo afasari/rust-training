@@ -40,3 +40,5 @@
   - variant_payloads implementation
 - enum sizes
   - enum sizes implementation
+- methods
+  - methods implementation
