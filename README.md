@@ -46,3 +46,5 @@
   - methods receiver implementation
 - pattern matching
   - pattern matching implementation
+- destructing enums
+  - destructing enums implementation
