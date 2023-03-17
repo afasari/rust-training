@@ -50,3 +50,5 @@
   - destructuring enums implementation
 - destructuring structs
   - destructuring structs implementation
+- destructuring arrays
+  - destructuring arrays implementation
