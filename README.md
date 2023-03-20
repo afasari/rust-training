@@ -58,3 +58,5 @@
   - health statistics implementation
 - point and polygons
   - point and polygons implementation
+- blocks
+  - blocks implementation
