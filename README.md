@@ -64,3 +64,5 @@
   - if expressions implementation
 - if let expressions
   - if let expressions implementation
+- while expressions
+  - while expressions implementation
