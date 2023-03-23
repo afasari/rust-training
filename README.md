@@ -68,3 +68,5 @@
   - while expressions implementation
 - while let expressions
   - while let expressions implementation
+- for expressions
+  - for expressions implementation
