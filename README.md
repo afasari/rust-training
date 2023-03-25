@@ -70,3 +70,5 @@
   - while let expressions implementation
 - for expressions
   - for expressions implementation
+- loop expressions
+  - loop expressions implementation
