@@ -74,5 +74,5 @@
   - loop expressions implementation
 - match expressions
   - match expressions implementation
-- break and continue
-  - break and continue implementation
+- break continue
+  - break continue implementation
