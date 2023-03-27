@@ -80,3 +80,5 @@
   - option and result implementation
 - string
   - string implementation
+- Vec
+  - Vec implementation
