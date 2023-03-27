@@ -84,3 +84,5 @@
   - vec implementation
 - hashmap
   - hashmap implementation
+- box
+  - box implementation
