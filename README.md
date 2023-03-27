@@ -78,3 +78,5 @@
   - break and continue implementation
 - option and result
   - option and result implementation
+- string
+  - string implementation
