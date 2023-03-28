@@ -98,3 +98,5 @@
   - module visibility implementation
 - luhn algorithm
   - luhn algorithm implementation
+- strings and iterators
+  - strings and iterators implementation
