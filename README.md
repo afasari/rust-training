@@ -94,3 +94,7 @@
   - reference counted implementation
 - modules
   - modules implementation
+- module visibility
+  - module visibility implementation
+- luhn algorithm
+  - luhn algorithm implementation
