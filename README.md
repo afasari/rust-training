@@ -100,3 +100,5 @@
   - luhn algorithm implementation
 - strings and iterators
   - strings and iterators implementation
+- traits
+  - traits implementation
