@@ -110,3 +110,5 @@
   - traits iterators implementation
 - traits fromiterator
   - traits fromiterator implementation
+- traits from into
+  - traits from into implementation
