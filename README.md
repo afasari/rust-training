@@ -108,3 +108,5 @@
   - default methods implementation
 - traits iterators
   - traits iterators implementation
+- traits fromiterator
+  - traits fromiterator implementation
