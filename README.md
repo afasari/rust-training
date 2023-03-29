@@ -102,3 +102,5 @@
   - strings and iterators implementation
 - traits
   - traits implementation
+- deriving traits
+  - deriving traits implementation
