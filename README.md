@@ -106,3 +106,5 @@
   - deriving traits implementation
 - default methods
   - default methods implementation
+- traits iterators
+  - traits iterators implementation
