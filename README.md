@@ -104,3 +104,5 @@
   - traits implementation
 - deriving traits
   - deriving traits implementation
+- default methods
+  - default methods implementation
