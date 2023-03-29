@@ -112,3 +112,5 @@
   - traits fromiterator implementation
 - traits from into
   - traits from into implementation
+- traits read write
+  - traits read write implementation
