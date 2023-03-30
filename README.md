@@ -114,3 +114,5 @@
   - traits from into implementation
 - traits read write
   - traits read write implementation
+- traits add mul
+  - traits add mul implementation
