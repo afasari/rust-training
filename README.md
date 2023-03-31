@@ -132,3 +132,5 @@
   - structured error handling with result implementation
 - propating errors with
   - propating errors with implementation
+- converting errors
+  - converting errors implementation
