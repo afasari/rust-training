@@ -124,3 +124,5 @@
   - traits closures implementation
 - simple gui
   - simple gui implementation
+- panics
+  - panics implementation
