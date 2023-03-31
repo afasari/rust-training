@@ -122,3 +122,5 @@
   - traits default implementation
 - traits closures
   - traits closures implementation
+- simple gui
+  - simple gui implementation
