@@ -116,3 +116,5 @@
   - traits read write implementation
 - traits add mul
   - traits add mul implementation
+- traits drop
+  - traits drop implementation
