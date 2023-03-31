@@ -126,3 +126,5 @@
   - simple gui implementation
 - panics
   - panics implementation
+- catching the stack unwinding
+  - catching the stack unwinding implementation
