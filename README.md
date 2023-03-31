@@ -118,3 +118,5 @@
   - traits add mul implementation
 - traits drop
   - traits drop implementation
+- traits default
+  - traits default implementation
