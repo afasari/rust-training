@@ -128,3 +128,5 @@
   - panics implementation
 - catching the stack unwinding
   - catching the stack unwinding implementation
+- structured error handling with result
+  - structured error handling with result implementation
