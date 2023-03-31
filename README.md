@@ -120,3 +120,5 @@
   - traits drop implementation
 - traits default
   - traits default implementation
+- traits closures
+  - traits closures implementation
