@@ -134,3 +134,5 @@
   - propating errors with implementation
 - converting errors
   - converting errors implementation
+- deriving error enums
+  - deriving error enums implementation
