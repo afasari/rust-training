@@ -136,3 +136,5 @@
   - converting errors implementation
 - deriving error enums
   - deriving error enums implementation
+- dynamic error types
+  - dynamic error types implementation
