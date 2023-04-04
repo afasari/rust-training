@@ -144,3 +144,5 @@
   - unit tests implementation
 - test modules
   - test modules implementation
+- documentation tests
+  - documentation tests implementation
