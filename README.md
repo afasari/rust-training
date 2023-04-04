@@ -146,3 +146,5 @@
   - test modules implementation
 - documentation tests
   - documentation tests implementation
+- integration tests
+  - integration tests implementation
