@@ -138,3 +138,5 @@
   - deriving error enums implementation
 - dynamic error types
   - dynamic error types implementation
+- adding context errors
+  - adding context errors implementation
