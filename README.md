@@ -140,3 +140,5 @@
   - dynamic error types implementation
 - adding context errors
   - adding context errors implementation
+- unit tests
+  - unit tests implementation
