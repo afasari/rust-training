@@ -148,3 +148,5 @@
   - documentation tests implementation
 - integration tests
   - integration tests implementation
+- unsafe rust : dereferencing raw pointers
+  - unsafe rust : dereferencing raw pointers implementation
