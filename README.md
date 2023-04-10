@@ -154,3 +154,7 @@
   - unsafe rust : mutable static variables implementation
 - unsafe rust : union
   - unsafe rust : union implementation
+- unsafe rust : calling unsafe function
+  - unsafe rust : calling unsafe function implementation
+- unsafe rust : writing unsafe function
+  - unsafe rust : writing unsafe function implementationwriting
