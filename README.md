@@ -150,3 +150,5 @@
   - integration tests implementation
 - unsafe rust : dereferencing raw pointers
   - unsafe rust : dereferencing raw pointers implementation
+- unsafe rust : mutable static variables
+  - unsafe rust : mutable static variables implementation
