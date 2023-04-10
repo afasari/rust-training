@@ -158,3 +158,5 @@
   - unsafe rust : calling unsafe function implementation
 - unsafe rust : writing unsafe function
   - unsafe rust : writing unsafe function implementationwriting
+- unsafe rust : calling external code
+  - unsafe rust : calling external code implementationwriting
