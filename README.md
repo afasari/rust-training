@@ -162,3 +162,5 @@
   - unsafe rust : calling external code implementation
 - unsafe rust : implementing unsafe traits
   - unsafe rust : implementing unsafe traits implementation
+- safe ffi wrapper
+  - safe ffi wrapper implementation
