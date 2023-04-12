@@ -168,3 +168,5 @@
   - concurency : threads implementation
 - concurency : scoped threads
   - concurency : scoped threads implementation
+- concurency : channel
+  - concurency : channel implementation
