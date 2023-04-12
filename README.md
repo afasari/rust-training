@@ -172,3 +172,5 @@
   - concurency : channel implementation
 - concurency : concurrency unbounded channels
   - concurency : concurrency unbounded channels implementation
+- concurency : bounded channels
+  - concurency : bounded channels implementation
