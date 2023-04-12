@@ -166,3 +166,5 @@
   - safe ffi wrapper implementation
 - concurency : threads
   - concurency : threads implementation
+- concurency : scoped threads
+  - concurency : scoped threads implementation
