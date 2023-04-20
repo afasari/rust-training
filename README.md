@@ -186,3 +186,5 @@
   - async : futures implementation
 - async : tokio
   - async : tokio implementation
+- async : tasks
+  - async : tasks implementation
